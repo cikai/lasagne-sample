@@ -33,4 +33,4 @@ python 终端下依次执行
 
 运行结果画面如下
 
-![运行结果](https://github.com/cikai/lasagne-sample/tree/master/examples/result.png)
+![运行结果](./examples/result.png)
